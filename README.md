@@ -6,7 +6,7 @@ This repository contains the frontend user interface for a virtual bookstore. Ul
 I plan to expand it by adding a backend server to handle various functionalities such as user authentication, storing user data, managing inventory, and processing orders.
 
 ## Features    
-* **Browse Books**: Users can browse the available list of books in the store. Each book is presented with its title, author, description, and price.   
+* **Browse Books**: Users can browse the available list of books in the store. Each book is presented with its title, author and price.   
 * **Add to Cart**: Users can add selected books to their shopping cart. They can also increase or decrease the quantity of book copies in the cart.   
 * **Order**: After adding books to the cart, users can proceed to the ordering process. They can view a summary of the order and enter their contact information in a form.   
 
