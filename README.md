@@ -8,7 +8,7 @@ I plan to expand it by adding a backend server to handle various functionalities
 ## Features    
 * **Browse Books**: Users can browse the available list of books in the store. Each book is presented with its title, author, description, and price.   
 * **Add to Cart**: Users can add selected books to their shopping cart. They can also increase or decrease the quantity of book copies in the cart.   
-* **Ordering**: After adding books to the cart, users can proceed to the ordering process. They can view a summary of the order and enter their contact information in a form.   
+* **Order**: After adding books to the cart, users can proceed to the ordering process. They can view a summary of the order and enter their contact information in a form.   
 
 ## Built With  
 * Typescript   
